@@ -1,0 +1,20 @@
+.body_backgorund 
+{
+    background-image:url("B-day_bg_2.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+  border-width:10px;
+  background-color: white;
+  border-style: ridge;
+  border-color: royalblue; 
+  background-image:url("canvas-bday.gif")
+  
+}
+button
+{
+  background-color: saddlebrown;
+  text-decoration: snow;
+}
